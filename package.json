@@ -26,3 +26,14 @@
     "nodemon": "^1.11.0"
   }
 }
+{
+    "_id": "photographydb.administrator",
+    "user": "administrator",
+    "db": "photographydb",
+    "roles": [
+        {
+            "role": "dbOwner",
+            "db": "photographydb"
+        }
+    ]
+}
