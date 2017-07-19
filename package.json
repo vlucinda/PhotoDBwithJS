@@ -27,8 +27,8 @@
   }
 }
 {
-    "_id": "photographydb.administrator",
-    "user": "administrator",
+    "_id": "photographydb.vlucinda",
+    "user": "vlucinda",
     "db": "photographydb",
     "roles": [
         {
