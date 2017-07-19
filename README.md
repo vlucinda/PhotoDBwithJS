@@ -1,4 +1,7 @@
 # PhotoDBwithJS
+This project was originally intended to be a photograph database, hence the name, and I hope it will be eventually.  I found that for my present skill level, uploading photos and applying captions and metadata was too ambitious.  I have left an "Add PHotos" link in my nav bar for this future purpose.
+
+Presently the project is a CRUD application using Mongo, Express, Node and EJS as a template handler. The theme of the project is North Africa and the Middle East.  Users can add books on the regions to a bibliography.  There are also photo collections displayed with a carousel and lightbox.
 
 CRUD 
 GET request
